@@ -1,0 +1,2 @@
+java TestMyShape.class
+pause
